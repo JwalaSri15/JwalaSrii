@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    font-family:'Georgia';
+  }
+  h2 {
+      color: white;
+      text-align:center;
+      font-family: Helvetica;
+  }
+  
+  p {
+    font-family: Georgia ;
+    font-size: 30px;
+    text-align: center;
+
+  } 
+  h3 {
+      color: white;
+      font-size: 40px;
+  }
+  p {
+      color: darkred;
+  }
+  h4 {
+      color: white;
+      font-family:Georgia;
+  }
+  body {
+      background-image:url(chocolate.jpeg);
+  }
